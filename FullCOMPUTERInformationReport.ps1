@@ -7,13 +7,13 @@
    Provide a Detailled Computer Report for Monitoring and logging 
 .DESCRIPTION 
    Retrieves and Stores in an HTML file all Information about the Computer,
-   including Disk Status, Operatings System, Running Processes, Running services 
-   Available Services, Networks settings, and available Powershell Aliases 
+   including Disk Status, Operating System, Running Processes, Running services 
+   Available Services, Network settings, and available Powershell Aliases.
 .EXAMPLE 
    PS C:\Users\User\Desktop\Powershell> .\FullCOMPUTERInformationReport.ps1 
-   Save the file to your c:\temp Folder with a .html extention and run the file from an elavated PowerShell prompt. 
+   Saves the file to your c:\temp Folder with a .html extention and run the file from an elavated PowerShell prompt. 
 .NOTES 
-   This script will Provide detaill Information and can be refined according to only needed Datas. 
+   This script will Provide detailled Information and can be refined in order to display only spcifically needed Datas. 
 .FUNCTIONALITY 
    PowerShell v3 
 #> 
